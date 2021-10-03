@@ -31,3 +31,16 @@ Install Web-Based-Credit-Card-Fraud-Detection-Using-ML with npm
 **IDE:** Eclipse IDE for Java EE Developers
 
   
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`Tomcat v9.0 Server`
+`connectionTimeout: 20000` 
+`port: 8081`
+`protocol: HTTP/1.1`
+`redirectPort:8443`
+
+`Eclipse IDE Windows x86_64`
+
+  
