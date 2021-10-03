@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Issuer/WebContent/error&apos; to &apos;reject&apos;" description="Rename resource &apos;error&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/error" name="reject" stamp="1624828195649" updateReferences="true"/>
+</session>
